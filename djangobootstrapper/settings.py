@@ -234,8 +234,9 @@ LOGGING = {
         },
     },
 }
+
 RAVEN_CONFIG = {
-    'dsn': 'https://1546be82565343c4852105b5a17369a4:cdd9a464ee504c11b1e2b8011125ea69@sentry.io/1237648',
+    'dsn': '******',
 
 }
 
